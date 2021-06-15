@@ -183,3 +183,5 @@ order by PercentPopulationInfected desc
 
 
 
+-- My First Tableau Dashboard ----
+-- https://public.tableau.com/profile/ilyas.qazi#!/
